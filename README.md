@@ -1,6 +1,7 @@
 # 👋 About Me:
-- dwdwdw
-
+- Studies Computer Science at [DigiPen Institute of Technology Singapore](https://www.digipen.edu.sg/about)
+- Loves game jamming and exploring technologies
+- Hobbies: Digital painting and listening to music 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tan-jun-rong) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanjunrong321@gmail.com) 
