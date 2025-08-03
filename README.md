@@ -1,6 +1,6 @@
 # 👋 About Me:
 - Studies Computer Science at [DigiPen Institute of Technology Singapore](https://www.digipen.edu.sg/about)
-- Loves game jamming and exploring technologies
+- Loves [game jamming](https://kyahiax.itch.io/) and exploring technologies
 - Hobbies: Digital painting and listening to music 
 
 ## 🌐 Socials:
