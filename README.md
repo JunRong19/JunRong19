@@ -10,6 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://raw.githubusercontent.com/JunRong19/JunRong19/main/profile-summary-card-output/noctis_minimus/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/JunRong19/JunRong19/main/profile-summary-card-output/noctis_minimus/1-repos-per-language.svg)![](https://raw.githubusercontent.com/JunRong19/JunRong19/main/profile-summary-card-output/noctis_minimus/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/JunRong19/JunRong19/main/profile-summary-card-output/noctis_minimus/3-stats.svg)![](https://raw.githubusercontent.com/JunRong19/JunRong19/main/profile-summary-card-output/noctis_minimus/4-productive-time.svg)]
+![](https://raw.githubusercontent.com/JunRong19/JunRong19/main/profile-summary-card-output/noctis_minimus/3-stats.svg)![](https://raw.githubusercontent.com/JunRong19/JunRong19/main/profile-summary-card-output/noctis_minimus/4-productive-time.svg)
 
 
