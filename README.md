@@ -38,12 +38,13 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![RobotFramework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 
-### Game Engine
+### Softwares
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ## 📊 GitHub Stats
 ![](https://raw.githubusercontent.com/JunRong19/JunRong19/main/profile-summary-card-output/noctis_minimus/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/JunRong19/JunRong19/main/profile-summary-card-output/noctis_minimus/3-stats.svg)
 ![](https://raw.githubusercontent.com/JunRong19/JunRong19/main/profile-summary-card-output/noctis_minimus/2-most-commit-language.svg)
-
+z
 </div>
